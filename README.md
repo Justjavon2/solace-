@@ -1,10 +1,6 @@
 # solace-
 (AI Generated)To develop a full-stack application that analyzes the correlation between a user’s musical habits and their cognitive performance/stress levels. The project aims to identify the "Optimal Solace Profile"—the specific acoustic characteristics (BPM, key, genre) that lead to the user's most effective work or relaxation states. 
 
-
-Solace
-Objective: To develop a full-stack application that analyzes the correlation between a user’s musical habits and their cognitive performance/stress levels. The project aims to identify the "Optimal Solace Profile"—the specific acoustic characteristics (BPM, key, genre) that lead to the user's most effective work or relaxation states.
-
 Brief Description/Idea The app looks for your "Solace Profile." For example, the data might show that when you listen to Lo-fi at 80 BPM, your heart rate stays low and you finish more lines of code. But when you listen to Fast Jazz, your stress levels (which you input) spike.
 
 In simple terms, you are building a "Scientist's Dashboard" for your own brain. Most people know music helps them study, but they don't know why. Your app will prove it with data.
